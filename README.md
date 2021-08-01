@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Rebeca Feitosa 👋
 
-- 🌱 Estudando Python
+- 🌱 Estudando Data Science
 - 😄 Pronomes: ela/dela
 
  <div>
